@@ -1,6 +1,6 @@
 ﻿{
+	"serverType":"github",
+	"gitEmail":"kunitone.hub@gmail.com",
 	"gitIsPrivateRepository":"false",
-	"gitURL":"https://github.com/mccarvell",
-	"gitEmail":"greg@gregmccarvell.com",
-	"serverType":"github"
+	"gitURL":"https://github.com/mccarvell"
 }
